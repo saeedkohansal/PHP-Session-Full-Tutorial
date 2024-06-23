@@ -11,22 +11,10 @@ This video demonstrates a complete tutorial on PHP session. A session is a way t
 
 <hr>
 
-## The Project Structure Explanation
-![Project Setup Files Explanation](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Project-Structure-Explanation.png "Project Structure Explanation")
-
-## The Extension Icon In Different Conditions
-| ![Extension Original Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/Original.png "Extension Original Icon") | ![Extension Enabled Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/enabled/Original.png "Extension Enabled Icon") | ![Extension Disabled Icon](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/source-code/assets/icons/disabled/Original.png "Extension Disabled Icon") |
-| :---: | :---: | :---: |
-| Original Icon | Enabled Icon | Disabled Icon |
-
-### How To Debug Extension Using `extensionStatusReport();` Function
-![How To Debug Extension](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/How-To-Debug-Extension.gif "How To Debug Extension")
-
-## `chrome.storage.local` vs `chrome.storage.sync`
-![Chrome Storage Sync vs Local](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/Chrome-Storage-Sync-vs-Local.png "Chrome Storage Sync vs Local")
-
-## The `background.js` Script Preview
-![background.js](https://raw.githubusercontent.com/saeedkohansal/InjectorPlus-Chrome-Extension-Manifest-V3/main/images/background.js.png "background.js")
+### Info
+![First](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/What%20Is%20Session.png "First")
+![Second](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/How%20Session%20Works.png "Second")
+![Third](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/PHP%20Session%20Explanation.png "Third")
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
@@ -41,10 +29,6 @@ https://www.patreon.com/gilgeekify
 💛 BUY ME A COFFEE
 
 https://www.buymeacoffee.com/gilgeekify
-
-🖼️ Buy Stunning Unique Digital Artworks
-
-https://alchemypowerai.etsy.com
 
 🪙 My Public Address To Receive BTC • Bitcoin
 
