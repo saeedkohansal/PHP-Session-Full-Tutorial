@@ -7,7 +7,7 @@ _PHP Sessions Explained: A Complete Tutorial on Using PHP Sessions_
 This video demonstrates a complete tutorial on PHP session. A session is a way to store and manage user-specific information across requests. It involves assigning a unique ID to each client and storing data on the server. This maintains state for users, such as login status or shopping cart contents. In programming, it refers to a period of interaction between a user and a system, commonly used in web development for managing user data across requests.
 
 ## Video Tutorial [ How To Build Chrome Extension From Scratch ]
-[https://youtu.be/b-lS5ula1bc](https://youtu.be/b-lS5ula1bc)
+**[https://youtu.be/b-lS5ula1bc](https://youtu.be/b-lS5ula1bc)**
 
 <hr>
 
