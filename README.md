@@ -12,9 +12,12 @@ This video demonstrates a complete tutorial on PHP session. A session is a way t
  
 
 # PHP Session Explanation
-![First](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/What%20Is%20Session.png "First")
-![Second](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/How%20Session%20Works.png "Second")
-![Third](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/PHP%20Session%20Explanation.png "Third")
+
+![What Is Session](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/What%20Is%20Session.png "What Is Session?")
+
+![How Session Works](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/How%20Session%20Works.png "How Session Works")
+
+![PHP Session Explanation](https://raw.githubusercontent.com/saeedkohansal/PHP-Session-Full-Tutorial/main/images/PHP%20Session%20Explanation.png "PHP Session Explanation")
 
  
 
