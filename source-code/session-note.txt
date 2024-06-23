@@ -1,0 +1,43 @@
+• session.name
+
+To use session_name() in both the php.ini configuration file and PHP code, you can set the session name using different approaches:
+
+1. Setting session name in php.ini:
+session.name = New-Session-Name
+
+2. Setting session name in PHP code:
+session_name('New-Session-Name');
+
+- Make sure to call session_name() before starting the session with session_start() to ensure that the new session name takes effect.
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+
+• session.auto_start
+
+1. Using php.ini:
+session.auto_start = 1
+
+2. Using ini_set() in PHP code:
+ini_set('session.auto_start', 1);
+
+- With session auto start enabled, PHP will automatically start a session for each request without needing to explicitly call session_start().
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+
+• session.gc_maxlifetime
+
+1. Setting session.gc_maxlifetime in php.ini:
+session.gc_maxlifetime = 1800
+
+2. Setting session.gc_maxlifetime in PHP code:
+ini_set('session.gc_maxlifetime', 1800);
+
+- This code sets the session.gc_maxlifetime directive to 1800 seconds (30 minutes) for the current script execution. This change will affect the session garbage collection process for subsequent requests within the same script execution.
